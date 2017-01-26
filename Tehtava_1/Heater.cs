@@ -14,7 +14,7 @@ namespace Tehtava_1
         
         public void ThrowWater()
         {
-            Console.WriteLine("Shii...");
+            Console.WriteLine("Shii....");
         }
     }
 }
