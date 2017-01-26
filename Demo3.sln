@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava_1", "Tehtava_1\Tehtava_1.csproj", "{3A7E1926-1DE1-48F5-8180-D0D5B48432AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaterApplication", "Tehtava_1\HeaterApplication.csproj", "{3A7E1926-1DE1-48F5-8180-D0D5B48432AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarApplication", "CarApplication\CarApplication.csproj", "{4E6E817B-15AD-4558-BFBA-E3AC0C4212CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WashingMachineApplication", "WashingMachineApplication\WashingMachineApplication.csproj", "{4A3D3115-4DBC-450E-B7EB-3F48E891EBFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{3A7E1926-1DE1-48F5-8180-D0D5B48432AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A7E1926-1DE1-48F5-8180-D0D5B48432AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A7E1926-1DE1-48F5-8180-D0D5B48432AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6E817B-15AD-4558-BFBA-E3AC0C4212CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6E817B-15AD-4558-BFBA-E3AC0C4212CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6E817B-15AD-4558-BFBA-E3AC0C4212CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6E817B-15AD-4558-BFBA-E3AC0C4212CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A3D3115-4DBC-450E-B7EB-3F48E891EBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3D3115-4DBC-450E-B7EB-3F48E891EBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3D3115-4DBC-450E-B7EB-3F48E891EBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3D3115-4DBC-450E-B7EB-3F48E891EBFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
