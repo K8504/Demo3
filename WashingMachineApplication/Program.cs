@@ -19,6 +19,6 @@ namespace WashingMachineApplication
             Console.WriteLine("Spinning is On");
             Console.WriteLine("Spinning speed " + washer.SpinningSpeed);
             Console.WriteLine("Washing time " + washer.WashingTime + " hours");
-        } //Githu
+        }
     }
 }

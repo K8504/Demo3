@@ -9,7 +9,7 @@ namespace WashingMachineApplication
     class Washer
     {
         public bool IsOn { get; set; }
-        public bool Wash { set; get; }
+        public bool Wash { get; set; }
         public bool Spinning { get; set; }
         public int SpinningSpeed { get; set; }
         public double WashingTime { get; set; }
